@@ -31,6 +31,9 @@ If you have a question and don't want to create an issue, then we can [![Join th
 At this moment the master branch is for Swift 3. If you want to continue using EVReflection in Swift 2.2 (or 2.3) then switch to the Swift2.2 or Swift2.3 branch.
 Run the unit tests to see EVReflection in action.
 
+> Add this in Pod file for swift 3.0: `EVReflection` from `https://github.com/evermeer/EVReflection.git`, branch `Swift3.0`
+> pod install
+
 EVReflection is used in [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) and [EVWordPressAPI](https://github.com/evermeer/EVWordPressAPI)
 
 In most cases EVReflection is very easy to use. Just take a look the section [It's easy to use](https://github.com/evermeer/EVReflection#its-easy-to-use). But if you do want to do non standard specific things, then EVReflection will offer you an extensive range of functionality. 
